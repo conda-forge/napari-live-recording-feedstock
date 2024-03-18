@@ -21,7 +21,7 @@ requirements:
     - setuptools-scm
   run:
     - pims
-    - microscope
+    - microscope >= 0.7.0
     - napari
     - numpy
     - opencv
